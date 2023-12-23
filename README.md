@@ -1,2 +1,2 @@
-# MNIST_HighDimentionalComputing
-Examples of MNIST classifier using high dimentional computing
+# MNIST_HyperdimentionalComputing
+Examples of MNIST classifier using hyperdimentional computing
